@@ -8,7 +8,7 @@ import tkinter as tk
 from tkinter import Label
 from PIL import Image, ImageTk, ImageFilter
 from heapq import heappop, heappush
-
+df
 # Colores
 Black, White, Green, Red, Blue, Yellow = (0, 0, 0), (255, 255, 255), (0, 255, 0), (255, 0, 0), (0, 0, 255), (255, 255, 0)
 
